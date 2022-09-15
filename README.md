@@ -18,9 +18,24 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+``` 
+program to swapping two values
+developed by: sarvesh.s
+register number : 22003029
+```
+```
+a1 = int(input())
+a2 = int(input())
+temp=a2
+a2=a1
+a1 = temp
+print("Swapped values are:",a1,a2)
+```
+## output: 
+![output](/swapoutput.png)
 
 
-
+ 
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
