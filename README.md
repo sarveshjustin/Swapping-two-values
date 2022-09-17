@@ -32,7 +32,7 @@ a1 = temp
 print("Swapped values are:",a1,a2)
 ```
 ## output: 
-![output](/swapoutput.png)
+![output](/swap1.png)
 
 
  
